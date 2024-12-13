@@ -4,7 +4,7 @@
 Bem vindo ao meu repositório! Aqui você vai encontrar uma página contendo meu currículo, com informações como projetos, formação, sobre mim, entre outros.
 
 
-Venha conferir! [Multiversos Homem-Aranha](https://douglas-oc.github.io/) 
+Venha conferir! [Currículo](https://douglas-oc.github.io/) 
 
 ### Tecnologias Utilizadas 
 
